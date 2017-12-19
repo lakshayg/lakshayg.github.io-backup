@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lakshayg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lakshayg.xyz
+  * I am lakshayg (https://keybase.io/lakshayg) on keybase.
+  * I have a public key ASADgTzaOjLxiyswjp_oIU29bIZKeKVKEFjpBJL78EPnzAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a51648b5f6a447ddee1d9a279488a8ae15911344ab4712927867ba9451a0e47a0a",
+      "host": "keybase.io",
+      "kid": "012003813cda3a32f18b2b308e9fe8214dbd6c864a78a54a1058e90492fbf043e7cc0a",
+      "uid": "fc18c492587605f04089a1cc8106aa19",
+      "username": "lakshayg"
+    },
+    "merkle_root": {
+      "ctime": 1519138136,
+      "hash": "eb062f8bbdadb942efb6fc6b07e79100a7602c96a83e2e825b68171abba2c29a82349fc56a3d5508c5676c42a8fc31adab2e65121c0fd1bb4ba316300b62228d",
+      "hash_meta": "6ab827b2cc0f03880a0982a0cd3786f1303e18b71eb5ecc0461257fa88d9cee1",
+      "seqno": 2127566
+    },
+    "service": {
+      "hostname": "lakshayg.xyz",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.41"
+  },
+  "ctime": 1519138161,
+  "expire_in": 504576000,
+  "prev": "c1299470df797af9ee38e8ef8f880c239b539a765defadadd7255456a6a311db",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA4E82joy8YsrMI6f6CFNvWyGSnilShBY6QSS+/BD58wKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTUxNjQ4YjVmNmE0NDdkZGVlMWQ5YTI3OTQ4OGE4YWUxNTkxMTM0NGFiNDcxMjkyNzg2N2JhOTQ1MWEwZTQ3YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDM4MTNjZGEzYTMyZjE4YjJiMzA4ZTlmZTgyMTRkYmQ2Yzg2NGE3OGE1NGExMDU4ZTkwNDkyZmJmMDQzZTdjYzBhIiwidWlkIjoiZmMxOGM0OTI1ODc2MDVmMDQwODlhMWNjODEwNmFhMTkiLCJ1c2VybmFtZSI6Imxha3NoYXlnIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE5MTM4MTM2LCJoYXNoIjoiZWIwNjJmOGJiZGFkYjk0MmVmYjZmYzZiMDdlNzkxMDBhNzYwMmM5NmE4M2UyZTgyNWI2ODE3MWFiYmEyYzI5YTgyMzQ5ZmM1NmEzZDU1MDhjNTY3NmM0MmE4ZmMzMWFkYWIyZTY1MTIxYzBmZDFiYjRiYTMxNjMwMGI2MjIyOGQiLCJoYXNoX21ldGEiOiI2YWI4MjdiMmNjMGYwMzg4MGEwOTgyYTBjZDM3ODZmMTMwM2UxOGI3MWViNWVjYzA0NjEyNTdmYTg4ZDljZWUxIiwic2Vxbm8iOjIxMjc1NjZ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibGFrc2hheWcueHl6IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40MSJ9LCJjdGltZSI6MTUxOTEzODE2MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJjMTI5OTQ3MGRmNzk3YWY5ZWUzOGU4ZWY4Zjg4MGMyMzliNTM5YTc2NWRlZmFkYWRkNzI1NTQ1NmE2YTMxMWRiIiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHQ6lal6qQXvhCpBCd7B6QjxBF6rGM3+xDwaHWcCUTMsNR6ADK0ZwKrboB0R02jJEaiOVEtffhADILmfQSPpTweoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDer8tWqWzJpBciWDEKoUGIJgtFLMeJxjkiIjxXNb0xcKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lakshayg
+
+==================================================================
